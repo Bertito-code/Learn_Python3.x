@@ -31,7 +31,7 @@ print(type(g))
 # Una equivalencia de una variable a otra
 cadena = f
 # Se pueden concatenar variables de tipo str, para concatenar junto con texto "Texto" + Variable
-print("Esto es una prueba de concatenacion de variables: " + cadena + "  Esto es otra prueba:  " + cadena) 
+print("Esto es una prueba de concatenacion de variables: " + cadena + "  Esto es otra prueba:  " + cadena)
 # Para poder concatenar texto con numeros debemos de usar el simbolo de , 
 print("Esto es una operacion de suma: ", x + z) 
 print("Gracias al simbolo de , podemos concatenar datos de tipo str y de tipo int o float: ", z )
