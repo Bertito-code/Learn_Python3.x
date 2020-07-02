@@ -8,13 +8,7 @@ from random import randint, uniform, random
 
 
 # Variables 
-# tipo_dado_in = int(input("Introduce el numero de caras que tiene el dado: "))
-# numero_dados = int(input("Introduce el numero de dados que se lanzaran"))
 
-# Variables Pruebas
-#aleatorio = randint(1,tipo_dado_in)
-#tipo_dado_in = int(100)
-#numero_dados = int(1)
 
 # Funciones
 
@@ -53,7 +47,6 @@ def dx():
     aleatorio = randint(1,tipo_dado_in)
     print(aleatorio)
 
-# Programa
 # Programa
 numero_introducido = 1
 print("Bienvenido al lanzador de dados")
