@@ -1,0 +1,67 @@
+# EXTENSIONES QUE UTILIZO EN VISUAL CODE PARA PROGRAMAR EN PYTHON
+
+
+Name: Code Runner
+Id: formulahendry.code-runner
+Description: Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim, 
+Version: 0.9.17
+Publisher: Jun Han
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+
+Name: Python
+Id: ms-python.python
+Description: Linting, Debugging (multi-threaded, remote), Intellisense, Jupyter Notebooks, code formatting, refactoring, unit tests, snippets, and more.
+Version: 2020.3.69010
+Publisher: Microsoft
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-python.python
+
+Name: Python for VSCode
+Id: tht13.python
+Description: Python language extension for vscode
+Version: 0.2.3
+Publisher: Thomas Haakon Townsend
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=tht13.python
+
+Name: Python Extension Pack
+Id: donjayamanne.python-extension-pack
+Description: Popular Visual Studio Code extensions for Python
+Version: 1.6.0
+Publisher: Don Jayamanne
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack
+
+Name: Python Extended
+Id: tushortz.python-extended-snippets
+Description: Python Extended is a vscode snippet that makes it easy to write codes in python by providing completion options along with all arguments.
+Version: 0.0.1
+Publisher: Taiwo Kareem
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=tushortz.python-extended-snippets
+
+Name: Python Indent
+Id: kevinrose.vsc-python-indent
+Description: Correct python indentation.
+Version: 1.8.1
+Publisher: Kevin Rose
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent
+
+Name: AREPL for python
+Id: almenon.arepl
+Description: real-time python scratchpad
+Version: 1.0.22
+Publisher: Almenon
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=almenon.arepl
+
+Name: Python Preview
+Id: dongli.python-preview
+Description: Provide Preview for Python Execution.
+Version: 0.0.4
+Publisher: dongli
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dongli.python-preview
+
+Name: indent-rainbow
+Id: oderwat.indent-rainbow
+Description: Makes indentation easier to read
+Version: 7.4.0
+Publisher: oderwat
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
+
+
