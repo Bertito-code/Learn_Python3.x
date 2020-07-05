@@ -1,0 +1,27 @@
+# INTERFACES GUI CON PYTHON
+
+PyQt           <https://riverbankcomputing.com/software/pyqt/intro>
+Tkinter        <https://realpython.com/python-gui-tkinter/>
+WxPython       <https://www.wxpython.org>
+
+
+# CREACION PAGINAS WEB CON PYTHON
+
+Pyramid        <https://trypyramid.com>
+Bottlepy       <http://bottlepy.org/docs/dev/index.html>
+Django         <https://www.djangoproject.com>
+Flask          <https://flask.palletsprojects.com/en/1.1.x/>
+
+
+# CREACION JUEGOS CON PYTHON
+
+Pygame         <https://www.pygame.org/news>
+Pygame Zero    <https://pygame-zero.readthedocs.io/en/stable/introduction.html#>
+
+# CIENCIA, ESTADISTICA, DATOS... CON PYTHON
+
+matplotlib     <https://matplotlib.org>
+pydata         <http://seaborn.pydata.org>
+bokeh          <https://docs.bokeh.org/en/latest/>
+plotly         <https://plotly.com>
+
