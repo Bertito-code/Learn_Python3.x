@@ -2,7 +2,7 @@
 
 ### ES
 
-Este repositorio tiene la finalidad de compartir con todo el mundo la aventura de aprender Python 3.x, en el subire recursos, info, ejerecicios...
+Este repositorio tiene la finalidad de compartir con todo el mundo la aventura de aprender Python 3.x, en el subire recursos, info, ejercicios...
 
 * El repositorio esta estructurado de la siguiente manera:
 
@@ -16,6 +16,3 @@ Este repositorio tiene la finalidad de compartir con todo el mundo la aventura d
 ### EN
 
 My adventure learning python
-
-
-
