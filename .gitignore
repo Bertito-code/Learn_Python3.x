@@ -2,3 +2,5 @@
 Pruebas/
 # Fichero pruebas.py se ignora del control de versiones
 pruebas.py
+# Carpeta con esquemas e imagenes
+Imagenes/
