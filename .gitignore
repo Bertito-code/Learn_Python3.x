@@ -1,6 +1,7 @@
-# Carpeta con archivos .py para realizar pruebas de codigo. Se ignora del control de versiones.
+# Se ignora del control de versiones:
+
+# Carpeta con archivos .py para realizar pruebas de codigo.
 Pruebas/
-# Fichero pruebas.py se ignora del control de versiones
-pruebas.py
-# Carpeta con esquemas e imagenes
+
+# Carpeta con esquemas e imagenes. 
 Imagenes/
