@@ -6,12 +6,14 @@ print(cuadrado.area())
 print(cuadrado.color)
 
 
-#Method Resolution Order
-print(Cuadrado.mro())     # .mro nos muestra el orden de las clases
+# Method Resolution Order
+# .mro nos muestra el orden de las clases
+print(Cuadrado.mro())     
 # Si nos damos cuenta la clase abc figura en la lista
 '''[<class 'Cuadrado.Cuadrado'>, <class 'Figura_geometrica_clase_abstracta.FiguraGeometrica'>, <class 'abc.ABC'>, <class 'Color.Color'>, <class 'object'>]'''
 
 
 
-# No es posible crear objetos de una clase abstracta, da el siguiente error: TypeError: Can't instantiate abstract class FiguraGeometrica with abstract methods area
-#figurageometrica = FiguraGeometrica()
+# No es posible crear objetos de una clase abstracta, 
+# da el siguiente error: TypeError: Can't instantiate abstract class FiguraGeometrica with abstract methods area
+# figurageometrica = FiguraGeometrica()
