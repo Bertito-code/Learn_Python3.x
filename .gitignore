@@ -8,3 +8,6 @@ Imagenes/
 
 # Carpeta de cosas pendientes de valorar
 Pendientes_de_valorar/
+
+# Cache de las pruebas con python
+__pycache__
