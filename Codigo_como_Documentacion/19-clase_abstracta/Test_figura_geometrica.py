@@ -12,8 +12,6 @@ print(Cuadrado.mro())
 # Si nos damos cuenta la clase abc figura en la lista
 '''[<class 'Cuadrado.Cuadrado'>, <class 'Figura_geometrica_clase_abstracta.FiguraGeometrica'>, <class 'abc.ABC'>, <class 'Color.Color'>, <class 'object'>]'''
 
-
-
 # No es posible crear objetos de una clase abstracta, 
 # da el siguiente error: TypeError: Can't instantiate abstract class FiguraGeometrica with abstract methods area
 # figurageometrica = FiguraGeometrica()
