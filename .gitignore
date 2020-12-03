@@ -11,3 +11,6 @@ Pendientes_de_valorar/
 
 # Cache de las pruebas con python
 __pycache__
+
+# Entorno virtual Flask
+flask/.venv
